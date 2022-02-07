@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Sea Crown",
+    "quantaty": "double bed",
+    "price": "9500 taka",
+    "discription": "Good location, close from the beach",
+    "img": "https://www.kayak.com/rimg/himg/ad/be/be/ostrovok-6313155-2b98d354b4c67b5ed59f04e3c1fa30c92c476533-783652.jpg?width:720&height:576&crop:true"
+  },
+  {
+    "id": 2,
+    "name": "Long Beach Hotel",
+    "quantaty": "double bed",
+    "price": "8500 taka",
+    "discription": "Good location, close from the beach",
+    "img": "https://www.kayak.com/rimg/himg/0f/cf/61/ostrovok-6502335-0eb3bfa84f9ecb3acf43415317ef041c19d907c4-143150.jpg?width:720&height:576&crop:true"
+  },
+  {
+    "id": 3,
+    "name": "Hotel The Cox",
+    "quantaty": "double bed",
+    "price": "10500 taka",
+    "discription": "Good location, close from the beach",
+    "img": "https://hotelthecoxtoday.com/img/accommodaton/presidential-details/presidential1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sayeman Beach Resort",
+    "quantaty": "double bed",
+    "price": "8500 taka",
+    "discription": "Good location, close from the beach",
+    "img": "https://www.kayak.com/rimg/himg/db/5a/e7/arbisoftimages-2349091-sea-view-suite-233982.jpg?width:720&height:576&crop:true"
+  },
+  {
+    "id": 5,
+    "name": "Prime Park Hotel",
+    "quantaty": "double bed",
+    "price": "11500 taka",
+    "discription": "A great room with balcony",
+    "img": "https://www.kayak.com/rimg/himg/13/b2/05/hotelsdotcom-797531712-541a62bf_w-111626.jpg?width:720&height:576&crop:true"
+  },
+  {
+    "id": 6,
+    "name": "Hotel Sea Alif",
+    "quantaty": " 2 double bed",
+    "price": "12500 taka",
+    "discription": "Good location, close from the beach",
+    "img": "https://www.kayak.com/rimg/himg/ad/be/be/ostrovok-6313155-2b98d354b4c67b5ed59f04e3c1fa30c92c476533-783652.jpg?width:720&height:576&crop:true"
+  },
+  {
+    "id": 7,
+    "name": "Hotel Coral Reef",
+    "quantaty": "double bed",
+    "price": "9500 taka",
+    "discription": "Good location, close from the beach",
+    "img": "https://www.kayak.com/rimg/himg/0e/1a/c7/hotelsdotcom-678917856-b2c88d61_w-829289.jpg?width:720&height:576&crop:true"
+  },
+  {
+    "id": 8,
+    "name": "Sea Welcome Resort",
+    "quantaty": "double bed & 1 single bed",
+    "price": "9500 taka",
+    "discription": "Good location, close from the beach",
+    "img": "https://www.kayak.com/rimg/himg/89/c4/5c/ostrovok-9898732-0677184903f97824d528d259089e94d9eaccda6e-487278.jpg?width:720&height:576&crop:true"
+  },
+  {
+    "id": 9,
+    "name": "Laziz Bay Wonder",
+    "quantaty": "double bed",
+    "price": "9500 taka",
+    "discription": "Good location, close from the beach",
+    "img": "https://www.kayak.com/rimg/himg/0d/ac/a6/hotelsdotcom-631711104-94b74e94_w-956818.jpg?width:720&height:576&crop:true"
+  }
+]
